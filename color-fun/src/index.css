@@ -1,0 +1,30 @@
+.wrapper{
+  width: 100%;
+  height:100vh;
+  background-color:black;
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+}
+
+.box{
+  width:600px;
+  height:600px;
+
+    display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+button{
+  padding:20px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+body{
+  background-color: black;
+}
