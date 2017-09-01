@@ -1,0 +1,14 @@
+{
+  "name": "color-animation",
+  "version": "1.0.0",
+  "description": "change color of terminal text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Coder Chick",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^1.2.0"
+  }
+}
