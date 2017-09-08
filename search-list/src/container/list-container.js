@@ -13,7 +13,7 @@ class ListContainer extends React.Component{
    
     render(){
         return(
-            <List></List>
+            <List dogs={dogs}></List>
         )
     }
 }
