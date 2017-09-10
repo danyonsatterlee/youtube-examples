@@ -13,7 +13,7 @@ class List extends React.Component{
        
         return(
            <div className="wrapper">
-               <input/>
+               <input value={this.props.input} onChange={this.props.handleChange}/>
                <ul>
                    {this.genList()}
                </ul>
